@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vikas\\source\\repos\\AWS\\AWSExperiments-Serverless\\Lambda\\SampleReconciliationService.Tests\\SampleReconciliationService.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vikas\\source\\repos\\AWS\\AWSExperiments-Serverless\\Lambda\\SampleReconciliationService.Tests\\SampleReconciliationService.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vikas\\source\\repos\\AWS\\AWSExperiments-Serverless\\Lambda\\SampleReconciliationService.Tests\\SampleReconciliationService.Tests.csproj",
+        "projectName": "SampleReconciliationService.Tests",
+        "projectPath": "C:\\Users\\vikas\\source\\repos\\AWS\\AWSExperiments-Serverless\\Lambda\\SampleReconciliationService.Tests\\SampleReconciliationService.Tests.csproj",
+        "packagesPath": "C:\\Users\\vikas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikas\\source\\repos\\AWS\\AWSExperiments-Serverless\\Lambda\\SampleReconciliationService.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vikas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Amazon.Lambda.APIGatewayEvents": {
+              "target": "Package",
+              "version": "[1.3.0, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Amazon.Lambda.TestUtilities": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.5.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

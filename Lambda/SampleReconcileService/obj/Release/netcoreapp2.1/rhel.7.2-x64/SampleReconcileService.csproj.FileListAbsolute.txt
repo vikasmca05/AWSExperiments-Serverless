@@ -1,0 +1,10 @@
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\bin\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.deps.json
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\bin\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.runtimeconfig.json
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\bin\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.runtimeconfig.dev.json
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\bin\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.dll
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\bin\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.pdb
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\obj\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.csprojAssemblyReference.cache
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\obj\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.AssemblyInfoInputs.cache
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\obj\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.AssemblyInfo.cs
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\obj\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.dll
+C:\Users\vikas\source\repos\AWS\AWSExperiments-Serverless\Lambda\SampleReconcileService\obj\Release\netcoreapp2.1\rhel.7.2-x64\SampleReconcileService.pdb
